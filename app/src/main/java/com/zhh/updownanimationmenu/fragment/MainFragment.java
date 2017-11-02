@@ -23,5 +23,6 @@ public class MainFragment extends Fragment {
         LinearLayout layout=new LinearLayout(getActivity());
         layout.setBackgroundResource(R.color.colorPrimary);
         return layout;
+        //xxxxxx
     }
 }
